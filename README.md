@@ -1,6 +1,6 @@
 <div align="center"><h1 style=align="center">MidFDM</h1></div>
 
-<div align="center"><img src="media/midfdm.jpg" width="100%"></div>
+<div align="center"><img src="media/MidFDM.jpg" width="100%"></div>
 <div align="center"><i>Medium Size Open Source 3D Printer
 
 </i></div>
