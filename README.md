@@ -29,11 +29,14 @@ Author
 Project Lead:<br>
 Prof. Dr. William Megill
 <br>
+<br>
 Machine design and fabrication:<br>
 Daniele Ingrassia
 <br>
+<br>
 Technical help and assembly:<br>
 Kevin Brinkmann
+<br>
 <br>
 Rhine-Waal University of Applied Sciences<br>
 https://www.hochschule-rhein-waal.de/en
