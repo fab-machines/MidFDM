@@ -26,6 +26,15 @@ MidFDM specifications
 Author
 --
 
+Project Lead:
+Prof. Dr. William Megill
+
+Machine design and fabrication:
+Daniele Ingrassia
+
+Technical help and assembly:
+Kevin Brinkmann
+
 Rhine-Waal University of Applied Sciences
 
 https://www.hochschule-rhein-waal.de/en
