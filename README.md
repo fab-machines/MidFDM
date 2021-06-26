@@ -29,6 +29,8 @@ Author
 Project Lead:<br>
 Prof. Dr. William Megill
 <br>
+Prof. Dr. Karsten Nebe
+<br>
 <br>
 Machine design and fabrication:<br>
 Daniele Ingrassia
